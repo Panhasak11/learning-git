@@ -1,4 +1,7 @@
-class hello{
-
+class hllo{
+	
+	public static void main(String args[]){
+	
+	}
 
 }
